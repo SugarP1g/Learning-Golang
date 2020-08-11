@@ -3,6 +3,8 @@
 - 标准库
   - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
   - [Go 标准库中文文档](http://cngolib.com/)
+- web
+  - [beego中文文档](https://beego.me/docs/intro/)
 - 书籍
   - [Go语言之旅](https://tour.go-zh.org/list)
   - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
