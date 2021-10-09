@@ -7,6 +7,7 @@
   - [beego中文文档](https://beego.me/docs/intro/)
 - 书籍
   - [Go语言之旅](https://tour.go-zh.org/list)
+  - [微软go教程](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
   - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
   - [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
 - 学习资源
