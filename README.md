@@ -11,5 +11,7 @@
   - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
   - [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
 - 学习资源
+  - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
+  - [Go by Example 中文版](https://gobyexample-cn.github.io/)
   - [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
   - [想系统学习GO语言(Golang)，能推荐几本靠谱的书吗?](https://www.zhihu.com/question/30461290)
