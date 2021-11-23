@@ -4,7 +4,7 @@
   - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
   - [Go 标准库中文文档](http://cngolib.com/)
 - web
-  - [beego中文文档](https://beego.me/docs/intro/)
+  - [beego中文文档](https://beego.vip/docs/intro/)
 - 书籍
   - [Go语言之旅](https://tour.go-zh.org/list)
   - [微软go教程](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
