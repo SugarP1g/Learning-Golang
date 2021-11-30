@@ -1,6 +1,7 @@
 # LearningGoLang
 
 - 标准库
+  - [Go 每日一库](https://github.com/darjun/go-daily-lib)
   - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
   - [Go 标准库中文文档](http://cngolib.com/)
 - web
