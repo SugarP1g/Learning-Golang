@@ -6,6 +6,8 @@
   - [Go 标准库中文文档](http://cngolib.com/)
 - web
   - [beego中文文档](https://beego.vip/docs/intro/)
+- 语法
+  - [五分钟理解golang的init函数](https://zhuanlan.zhihu.com/p/34211611)
 - 书籍
   - [Go语言之旅](https://tour.go-zh.org/list)
   - [微软go教程](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
