@@ -4,8 +4,6 @@
   - [Go 每日一库](https://github.com/darjun/go-daily-lib)
   - [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
   - [Go 标准库中文文档](http://cngolib.com/)
-- web
-  - [beego中文文档](https://beego.vip/docs/intro/)
 - 语法
   - [五分钟理解golang的init函数](https://zhuanlan.zhihu.com/p/34211611)
   - [defer关键字](https://tiancaiamao.gitbooks.io/go-internals/content/zh/03.4.html)
@@ -20,3 +18,7 @@
   - [Go by Example 中文版](https://gobyexample-cn.github.io/)
   - [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
   - [想系统学习GO语言(Golang)，能推荐几本靠谱的书吗?](https://www.zhihu.com/question/30461290)
+- 三方库
+  - web
+    - [beego中文文档](https://beego.vip/docs/intro/)
+  - [Go Chassis](https://go-chassis.readthedocs.io/en/latest/index.html)
