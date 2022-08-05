@@ -21,4 +21,4 @@
 - 三方库
   - web
     - [beego中文文档](https://beego.vip/docs/intro/)
-  - [Go Chassis](https://go-chassis.readthedocs.io/en/latest/index.html)
+  - [微服务开发框架：Go Chassis](https://go-chassis.readthedocs.io/en/latest/index.html)
