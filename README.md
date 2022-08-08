@@ -7,6 +7,8 @@
 - 语法
   - [五分钟理解golang的init函数](https://zhuanlan.zhihu.com/p/34211611)
   - [defer关键字](https://tiancaiamao.gitbooks.io/go-internals/content/zh/03.4.html)
+- 其他
+  - [Go命令详解](https://zhuanlan.zhihu.com/p/161494871)
 - 书籍
   - [Go语言之旅](https://tour.go-zh.org/list)
   - [微软go教程](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
