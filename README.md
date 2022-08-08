@@ -12,6 +12,7 @@
   - [微软go教程](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
   - [Go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
   - [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
+  - [Go 语言设计与实现](https://draveness.me/golang/)
 - 学习资源
   - [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
