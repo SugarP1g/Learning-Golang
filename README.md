@@ -1,4 +1,4 @@
-# LearningGoLang
+# Learning-Golang
 
 - 标准库
   - [Go 每日一库](https://github.com/darjun/go-daily-lib)
