@@ -17,8 +17,10 @@
   - [Go语言圣经（中文版）](https://gopl-zh.github.io/)
   - [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
   - [Go 语言设计与实现](https://draveness.me/golang/)
+  - [Go程序设计学习笔记-雨痕](https://www.yuque.com/qyuhen/go)
 - 学习资源
   - [awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
+  - [awesome-go-China](https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md)
   - [Go 语言学习资料与社区索引](https://github.com/Unknwon/go-study-index)
   - [Go by Example 中文版](https://gobyexample-cn.github.io/)
   - [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
