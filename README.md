@@ -7,6 +7,7 @@
 - 语法
   - [五分钟理解golang的init函数](https://zhuanlan.zhihu.com/p/34211611)
   - [defer关键字](https://tiancaiamao.gitbooks.io/go-internals/content/zh/03.4.html)
+  - [Defer, Panic, and Recover](https://blog.go-zh.org/defer-panic-and-recover)
 - 其他
   - [GO命令教程](https://hyper0x.github.io/go_command_tutorial/#/)
   - [Go命令详解](https://zhuanlan.zhihu.com/p/161494871)
