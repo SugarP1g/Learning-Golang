@@ -30,3 +30,5 @@
   - web
     - [beego中文文档](https://beego.vip/docs/intro/)
   - [微服务开发框架：Go Chassis](https://go-chassis.readthedocs.io/en/latest/index.html)
+- 问题定位
+  - [Go Modules - checksum mismatch 错误解决](http://www.wu.run/2021/05/16/checksum-mismatch-error/)
